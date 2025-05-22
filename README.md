@@ -1,2 +1,2 @@
 # PATHS
-gent-Based Modeling of Homelessness Pathways
+Agent-Based Modeling of Homelessness Pathways
