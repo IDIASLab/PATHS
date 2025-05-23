@@ -79,23 +79,8 @@ Once the installation is complete, follow these steps to run the project:
 5. **Customize the Workflow**:
    - Modify the scripts to adjust parameters, change input data, or customize the simulation and visualization process.
 
-## Contributing
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes and push the branch:
-   ```bash
-   git commit -m "Description of changes"
-   git push origin feature-name
-   ```
-4. Open a pull request.
-
 ## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is licensed under the Apache-2.0 license.
 
 ## Contact
 For questions or collaboration, please contact 'ntasnim@albany.edu'.
