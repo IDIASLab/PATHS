@@ -83,4 +83,4 @@ Once the installation is complete, follow these steps to run the project:
 This project is licensed under the Apache-2.0 license.
 
 ## Contact
-For questions or collaboration, please contact 'ntasnim@albany.edu'.
+For questions, please contact ntasnim@albany.edu.
