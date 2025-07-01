@@ -2,7 +2,8 @@
 Agent-Based Modeling of Homelessness Pathways
 
 ## Introduction
-PATHS is a research project focused on simulating and analyzing homelessness pathways using agent-based modeling techniques. The goal is to better understand the dynamics of homelessness.
+PATHS is a research project focused on simulating and analyzing homelessness pathways using agent-based modeling techniques. The goal is to gain a deeper understanding of the dynamics of homelessness. This repository contains the code for the paper titled ``PATHS: Agent-Based Modeling of Homelessness Pathways" by Nowshin Tasnim, Khandker Sadia Rahman, and 
+Charalampos Chelmis.
 
 ## Features
 - Agent-based simulation of homelessness pathways.
