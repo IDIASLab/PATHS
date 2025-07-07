@@ -2,8 +2,20 @@
 Agent-Based Modeling of Homelessness Pathways
 
 ## Introduction
-PATHS is a research project focused on simulating and analyzing homelessness pathways using agent-based modeling techniques. The goal is to gain a deeper understanding of the dynamics of homelessness. This repository contains the code for the paper titled ``PATHS: Agent-Based Modeling of Homelessness Pathways" by Nowshin Tasnim, Khandker Sadia Rahman, and 
-Charalampos Chelmis.
+PATHS is a research project focused on simulating and analyzing homelessness pathways using agent-based modeling. If you found this repository useful, please consider giving a star :star: and cite our work :bookmark: as follows:
+
+> Nowshin Tasnim, Khandker Sadia Rahman, Charalampos Chelmis. Nowshin Tasnim, PATHS: Agent-Based Modeling of Homelessness Pathways. *To appear in the Proceedings of the 17th International Conference on Advances in Social Networks Analysis and Mining*, 2025.
+
+**BibTeX:**
+```bibtex
+
+@inproceedings{tasnim2025paths,
+  title={PATHS: Agent-Based Modeling of Homelessness Pathways},
+  author={Tasnim, Nowshin and Rahman, Khandker Sadia and Chelmis, Charalampos},
+  booktitle={2025 International Conference on Advances in Social Networks Analysis and Mining (ASONAM)},
+  year={2025}
+}
+```
 
 ## Features
 - Agent-based simulation of homelessness pathways.
